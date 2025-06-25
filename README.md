@@ -22,7 +22,7 @@ The Crime Data Analysis project aims to analyze crime data from 2020 to the pres
 
 ### 1. Data Collection
 - Downloaded crime data from open data sources (e.g., government databases, crime reports).
-Crime Data Source](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link) – View and run it on Google Colab 
+*[Crime Data Source](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link) – View and run it on Google Colab* 
 
 ### 2. Data Cleaning and Preprocessing
 - Handled missing values, outliers, and inconsistencies.
@@ -40,7 +40,7 @@ Crime Data Source](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlx
 ### 5. Results and Insights
 - Summarized key findings and insights from the analysis.
 - Provided recommendations for crime prevention strategies based on data insights.
-*[Results and Insights][https://example.com/report][https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link]*
+*[Results and Insights](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link) – View and run it on Google Colab *
 
 
 
