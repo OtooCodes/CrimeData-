@@ -22,7 +22,7 @@ The Crime Data Analysis project aims to analyze crime data from 2020 to the pres
 
 ### 1. Data Collection
 - Downloaded crime data from open data sources (e.g., government databases, crime reports).
-*[Crime Data Source](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link) – View and run it on Google Colab* 
+*[Crime Data Source](https://crime-data.tiiny.site) * 
 
 ### 2. Data Cleaning and Preprocessing
 - Handled missing values, outliers, and inconsistencies.
@@ -31,16 +31,16 @@ The Crime Data Analysis project aims to analyze crime data from 2020 to the pres
 ### 3. Exploratory Data Analysis (EDA)
 - Analyzed data distributions and correlations.
 - Generated summary statistics and visualizations.
-*[Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link)*
+*[Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link)– View and run it on Google Colab*
 
 ### 4. Data Visualization
 - Created visualizations to identify trends, patterns, and crime hotspots.
-[Visualization of Crime Trends Over Time](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link) – View and run it on Google Colab 
+[Visualization of Crime Trends Over Time](https://crime-data.tiiny.site) – View and run it on Google Colab 
 
 ### 5. Results and Insights
 - Summarized key findings and insights from the analysis.
 - Provided recommendations for crime prevention strategies based on data insights.
-*[Results and Insights](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link) – View and run it on Google Colab *
+*[Results and Insights](https://crime-data.tiiny.site)*
 
 
 
