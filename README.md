@@ -22,7 +22,7 @@ The Crime Data Analysis project aims to analyze crime data from 2020 to the pres
 
 ### 1. Data Collection
 - Downloaded crime data from open data sources (e.g., government databases, crime reports).
-- Example: [Crime Data Source](https://example.com/crime-data)
+- Example: [Crime Data Source]([https://example.com/crime-data](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link))
 
 ### 2. Data Cleaning and Preprocessing
 - Handled missing values, outliers, and inconsistencies.
@@ -31,25 +31,16 @@ The Crime Data Analysis project aims to analyze crime data from 2020 to the pres
 ### 3. Exploratory Data Analysis (EDA)
 - Analyzed data distributions and correlations.
 - Generated summary statistics and visualizations.
+*[Exploratory Data Analysis (EDA)]([https://example.com/report](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link))*
 
 ### 4. Data Visualization
 - Created visualizations to identify trends, patterns, and crime hotspots.
-- Example: *[Visualization of Crime Trends Over Time](https://imgur.com/example)*
+*[Visualization of Crime Trends Over Time]([https://imgur.com/example](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link))*
 
-### 5. Machine Learning Modeling
-- Applied classification and regression algorithms to predict crime trends.
-- Example: *[Model Performance Metrics](https://imgur.com/example)*
-
-### 6. Results and Insights
+### 5. Results and Insights
 - Summarized key findings and insights from the analysis.
 - Provided recommendations for crime prevention strategies based on data insights.
+*[Results and Insights]([https://example.com/report](https://colab.research.google.com/drive/11Pjlog0P9eaNWJ05cQlxnPSHbC5Fn49j?usp=drive_link))*
 
-### 7. Documentation and Reporting
-- Documented the analysis process, findings, and conclusions.
-- Example: *[Project Report](https://example.com/report)*
 
-## Screenshots and Visualizations
-- *Ref 1: Crime Data Overview* ![Crime Data Overview](https://imgur.com/example)
-- *Ref 2: Crime Trends Visualization* ![Crime Trends Visualization](https://imgur.com/example)
-- *Ref 3: Predictive Model Results* ![Predictive Model Results](https://imgur.com/example)
 
